@@ -1,11 +1,29 @@
-<<<<<<< HEAD
-python-interview-prep
-==============================
+# A Journey to Mastering Python Job Interviews: 
 
-Transitioning from Academia to Industry. Preparing for Python/Code Documented
+**Bridging Academic to Industry Roles in Data Analysis and Machine Learning**
 
-Project Organization
-------------
+## Introduction
+
+As an astrophysics researcher, I've found Python to be an indispensable tool for modeling and data visualization, seamlessly integrating into my daily workflow.
+
+Despite my familiarity with crafting Python scripts for a range of tasks, a Python Dev job interview feels like uncharted territory. It's a challenge that requires preparation, a process I intend to document and share. This record of my journey could serve as a foundation for others embarking on a similar path. 
+
+## Ongoing Journey: Tune for Updates
+
+Embarking on this journey from academia to industry I will share my insights along the way. As I continue to explore new tools, languages, and methodologies, I plan to regularly come up with updates of my preparation for Python / Code interviews. 
+
+I will also comment on work-flow improvements, that might be interesting for those migrating from the exploratory phase with Google Colaboratory Notebooks, to a more robust organization involving the use of VS Code and Github, with reliable Project Structures, and with a version control approach.  
+
+Whether it's gaining a deeper understanding of Python libraries, diving into the potential of Mojo, or uncovering the nuances of machine learning, I want to chronic my steps. 
+
+It is always an Ongoing Journey for us all,
+
+and I hope to provide valuable perspectives for others navigating similar paths. Please feel free to reach out if you have questions, suggestions, or topics you think would be interesting to consider and to dive into. 
+
+Thank you for joining me in this road!
+
+
+# Project Organization
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
@@ -53,10 +71,7 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
---------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-=======
-# python-interview-prep
- A walk through exercise of career transition from academy to industry with a focus to prepare for a python interview 
->>>>>>> origin/main
+
+Project Structure based on the cokiecutter data science project template. 
+#cookiecutterdatascience
