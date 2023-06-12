@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 python-interview-prep
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# python-interview-prep
+ A walk through exercise of career transition from academy to industry with a focus to prepare for a python interview 
+>>>>>>> origin/main
