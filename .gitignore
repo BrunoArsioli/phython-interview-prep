@@ -1,9 +1,9 @@
 
 # Private Notebooks
 # ignore the entire notebooks/ folder 
-notebooks/
+seed-notebooks/
 # do not igore this file from notebooks/ (this one will be published)
-!notebooks/python_interview_prep-intro.ipynb
+#!notebooks/python_interview_prep-intro.ipynb
 
 
 # Byte-compiled / optimized / DLL files
