@@ -16,6 +16,6 @@ jobs:
       with:
         auth: ${{ secrets.GIST_TOKEN }}
         gist_url: https://gist.github.com/BrunoArsioli/48d65f1f9611d8f43ca2f685456926da
-        gist_title: A Journey do Bridging Academic do Industry Roles
-        gist_description: Motivations and Introduction. Reflections on Career Transition From Academia to Industry 
+        gist_title: python_interview_prep-intro.ipynb
+        gist_description: Bridging Academia to Industry 
         github_file: notebooks/python_interview_prep-intro.ipynb
