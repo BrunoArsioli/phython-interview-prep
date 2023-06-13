@@ -15,7 +15,7 @@ jobs:
       uses: Popsiclestick/gist-sync-action@v1.2.0
       with:
         auth: ${{ secrets.GIST_TOKEN }}
-        gist_url: https://gist.github.com/BrunoArsioli/48d65f1f9611d8f43ca2f685456926da
+        gist_url: https://gist.github.com/BrunoArsioli/748b23d738f2f12287076df6fecb5ee6
         gist_title: python_interview_prep-intro.ipynb
         gist_description: Bridging Academia to Industry 
         github_file: notebooks/python_interview_prep-intro.ipynb
